@@ -1,0 +1,2 @@
+export type { FooterPartialProps } from './Footer.partial';
+export { FooterPartial } from './Footer.partial';
